@@ -1110,3 +1110,322 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.16-10.39.02:377][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
 [2022.12.16-10.39.02:470][958]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2022.12.16-10.39.06:640][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.16-10.41.00:970][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.41.00:971][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.41.01:790][147]LogViewport: Scene viewport resized to 988x747, mode Windowed.
+[2022.12.16-10.44.39:639][828]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.44.40:681][872]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.44.54:471][553]LogViewport: Scene viewport resized to 988x746, mode Windowed.
+[2022.12.16-10.44.54:568][553]LogViewport: Scene viewport resized to 988x720, mode Windowed.
+[2022.12.16-10.44.54:652][553]LogViewport: Scene viewport resized to 988x699, mode Windowed.
+[2022.12.16-10.44.54:735][553]LogViewport: Scene viewport resized to 988x693, mode Windowed.
+[2022.12.16-10.44.54:818][553]LogViewport: Scene viewport resized to 988x690, mode Windowed.
+[2022.12.16-10.44.54:955][553]LogViewport: Scene viewport resized to 988x691, mode Windowed.
+[2022.12.16-10.44.55:069][553]LogViewport: Scene viewport resized to 988x730, mode Windowed.
+[2022.12.16-10.44.55:151][553]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.12.16-10.44.55:235][553]LogViewport: Scene viewport resized to 988x740, mode Windowed.
+[2022.12.16-10.44.55:319][553]LogViewport: Scene viewport resized to 988x741, mode Windowed.
+[2022.12.16-10.44.55:402][553]LogViewport: Scene viewport resized to 988x745, mode Windowed.
+[2022.12.16-10.44.55:486][553]LogViewport: Scene viewport resized to 988x748, mode Windowed.
+[2022.12.16-10.44.57:238][624]LogViewport: Scene viewport resized to 997x847, mode Windowed.
+[2022.12.16-10.44.59:834][746]LogViewport: Scene viewport resized to 988x847, mode Windowed.
+[2022.12.16-10.44.59:930][748]LogViewport: Scene viewport resized to 953x847, mode Windowed.
+[2022.12.16-10.45.00:017][750]LogViewport: Scene viewport resized to 935x847, mode Windowed.
+[2022.12.16-10.45.00:098][752]LogViewport: Scene viewport resized to 930x847, mode Windowed.
+[2022.12.16-10.45.00:178][754]LogViewport: Scene viewport resized to 907x847, mode Windowed.
+[2022.12.16-10.45.00:257][756]LogViewport: Scene viewport resized to 891x847, mode Windowed.
+[2022.12.16-10.45.00:334][758]LogViewport: Scene viewport resized to 886x847, mode Windowed.
+[2022.12.16-10.45.00:428][761]LogViewport: Scene viewport resized to 884x847, mode Windowed.
+[2022.12.16-10.45.00:690][773]LogViewport: Scene viewport resized to 887x847, mode Windowed.
+[2022.12.16-10.45.01:058][790]LogViewport: Scene viewport resized to 891x847, mode Windowed.
+[2022.12.16-10.45.01:166][792]LogViewport: Scene viewport resized to 905x847, mode Windowed.
+[2022.12.16-10.45.01:248][794]LogViewport: Scene viewport resized to 910x847, mode Windowed.
+[2022.12.16-10.45.01:328][796]LogViewport: Scene viewport resized to 913x847, mode Windowed.
+[2022.12.16-10.45.01:407][798]LogViewport: Scene viewport resized to 919x847, mode Windowed.
+[2022.12.16-10.45.01:485][800]LogViewport: Scene viewport resized to 920x847, mode Windowed.
+[2022.12.16-10.45.01:864][818]LogViewport: Scene viewport resized to 923x847, mode Windowed.
+[2022.12.16-10.45.02:176][832]LogViewport: Scene viewport resized to 927x847, mode Windowed.
+[2022.12.16-10.45.02:262][834]LogViewport: Scene viewport resized to 930x847, mode Windowed.
+[2022.12.16-10.45.02:340][836]LogViewport: Scene viewport resized to 931x847, mode Windowed.
+[2022.12.16-10.45.02:422][838]LogViewport: Scene viewport resized to 932x847, mode Windowed.
+[2022.12.16-10.45.06:434][ 33]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.45.20:907][737]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.45.20:914][737]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.45.20:926][737]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.45.20:926][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.45.33:033][303]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2022.12.16-10.45.33:050][303]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Marine) ...
+[2022.12.16-10.45.33:136][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.33:207][303]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.12.16-10.45.33:226][303]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.12.16-10.45.33:342][303]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.12.16-10.45.33:401][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.45.33:419][303]LogTexture: Display: Waiting for textures to be ready 0/10 (/Game/Characters/Marine/Textures/Chr_FPS_N) ...
+[2022.12.16-10.45.33:530][303]LogTexture: Display: Waiting for textures to be ready 7/10 (/Game/Characters/Marine/Textures/Chr_FPS_M_03tga) ...
+[2022.12.16-10.45.34:735][303]LogViewport: Scene viewport resized to 997x836, mode Windowed.
+[2022.12.16-10.45.51:018][887]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Death.Death
+[2022.12.16-10.45.51:018][887]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Death.Death
+[2022.12.16-10.45.51:018][887]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Death.Death
+[2022.12.16-10.45.51:020][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.51:032][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.45.51:279][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.52:011][887]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.45.52:021][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.52:062][887]LogViewport: Scene viewport resized to 997x520, mode Windowed.
+[2022.12.16-10.45.52:113][887]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.12.16-10.45.55:475][  5]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2022.12.16-10.45.55:481][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.55:503][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.45.55:747][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.45.55:878][  5]LogViewport: Scene viewport resized to 997x836, mode Windowed.
+[2022.12.16-10.46.12:683][556]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Marine/Marine_PhysicsAsset.Marine_PhysicsAsset
+[2022.12.16-10.46.12:748][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.12:777][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.46.13:681][556]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.16-10.46.13:700][556]LogViewport: Scene viewport resized to 997x836, mode Windowed.
+[2022.12.16-10.46.24:247][864]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Idle.Idle
+[2022.12.16-10.46.24:247][864]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Idle.Idle
+[2022.12.16-10.46.24:324][864]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.24:335][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.24:424][864]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.24:424][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.28:708][ 11]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Bwd.Run_Bwd
+[2022.12.16-10.46.28:708][ 11]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Run_Bwd.Run_Bwd
+[2022.12.16-10.46.28:752][ 11]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.28:763][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.28:839][ 11]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.28:839][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.32:240][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Fwd.Run_Fwd
+[2022.12.16-10.46.32:241][124]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Run_Fwd.Run_Fwd
+[2022.12.16-10.46.32:313][124]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.32:324][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.32:401][124]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.32:401][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.38:492][344]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Lt.Run_Lt
+[2022.12.16-10.46.38:492][344]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Run_Lt.Run_Lt
+[2022.12.16-10.46.38:567][344]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.38:578][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.38:652][344]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.38:652][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.42:993][485]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Rt.Run_Rt
+[2022.12.16-10.46.42:993][485]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Run_Rt.Run_Rt
+[2022.12.16-10.46.43:071][485]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.43:082][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.43:160][485]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.43:160][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.46:595][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Sprint.Sprint
+[2022.12.16-10.46.46:595][594]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Sprint.Sprint
+[2022.12.16-10.46.46:673][594]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.46:684][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.46:763][594]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.46:763][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.46.52:314][790]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Marine/Animations/Death.Death
+[2022.12.16-10.46.52:394][790]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.46.52:405][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.46.52:480][790]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.46.52:480][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:187][357]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2022.12.16-10.47.19:193][357]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2022.12.16-10.47.19:198][357]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:198][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:289][357]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:289][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:315][357]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:315][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:387][357]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:387][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:418][357]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:418][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:495][357]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:495][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.19:518][357]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.19:518][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.29:649][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.47.29:649][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.47.30:541][ 49]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.47.38:128][429]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.47.38:149][429]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.38:149][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.38:265][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.47.38:265][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.47.40:887][528]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.47.40:893][528]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.47.40:905][528]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.47.40:905][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.47.42:673][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.47.42:674][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.47.46:331][806]LogViewport: Scene viewport resized to 932x847, mode Windowed.
+[2022.12.16-10.48.05:338][758]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.48.43:247][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2022.12.16-10.48.43:251][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.245
+[2022.12.16-10.48.43:254][521]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_1] ([2] browsable assets)...
+[2022.12.16-10.48.43:285][521]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1_C]
+[2022.12.16-10.48.43:298][521]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1]
+[2022.12.16-10.48.43:298][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_1]
+[2022.12.16-10.48.43:307][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto2
+[2022.12.16-10.48.43:308][521]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1_Auto2D98766FA4C0693B0CD0354AF8942001D.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto2.uasset'
+[2022.12.16-10.48.43:308][521]LogFileHelpers: Auto-saving content packages took 0.055
+[2022.12.16-10.49.41:454][207]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 93B7A2C3624FB06D64FFDB7D7B9DBBBD7D26194E), compiling. 
+[2022.12.16-10.49.44:008][291]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.49.44:025][291]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.49.44:040][291]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.49.44:040][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: ================================================
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.12.16-10.49.45:234][325]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Time job spent in pending queue: average 1.00 s, longest 3.70 s
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Job execution time: average 3.61 s, max 3.61 s
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Job life time (pending + execution): average 3.70 s, max 3.70
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.70 s
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Average processing rate: 0.27 jobs/sec
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display:                                                 FLumenCardVS - 100.00% of total time (compiled    1 times, average 1.99 sec, max 1.99 sec, min 1.99 sec)
+[2022.12.16-10.49.45:235][325]LogShaderCompilers: Display: ================================================
+[2022.12.16-10.49.45:876][361]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92704D977FEC7180B06CCD1CEC50058F94DF3CD3), compiling. 
+[2022.12.16-10.49.48:669][501]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9807E73BF5B08BDF9485AA432D1982CC946DD927), compiling. 
+[2022.12.16-10.49.51:561][646]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D72F24503742A262443A472F6CFBA75BF8B1DF15), compiling. 
+[2022.12.16-10.49.54:500][792]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB4AC79E639AAE21AF1FB8F46E04E57E14307F32), compiling. 
+[2022.12.16-10.49.57:361][930]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 12DAA744E9AFF742445236CCD31CF88B4F7BC36A), compiling. 
+[2022.12.16-10.50.00:125][ 69]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A52A19A1FEBAB39207A0D239DF07838E1CBB5A1), compiling. 
+[2022.12.16-10.52.21:504][133]LogContentBrowser: Deferred new asset file creation: M_Marine_Inst
+[2022.12.16-10.52.21:554][133]LogContentBrowser: Creating deferred item: M_Marine_Inst
+[2022.12.16-10.52.21:567][134]LogContentBrowser: Renaming the item being created (Deferred Item: M_Marine_Inst).
+[2022.12.16-10.52.48:156][626]LogContentBrowser: Attempting asset rename: M_Marine_Inst -> M1_Marine_Instance
+[2022.12.16-10.52.48:163][626]LogContentBrowser: End creating deferred item M_Marine_Inst
+[2022.12.16-10.52.49:639][697]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Marine/Materials/M1_Marine_Instance.M1_Marine_Instance
+[2022.12.16-10.52.49:668][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.52.49:967][697]LogViewport: Scene viewport resized to 1167x872, mode Windowed.
+[2022.12.16-10.53.20:562][459]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2022.12.16-10.53.40:446][313]LogSlate: Window 'M1_Marine_Instance' being destroyed
+[2022.12.16-10.53.40:459][313]LogSlate: Window 'M1_Marine_Instance' being destroyed
+[2022.12.16-10.53.40:563][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.16-10.53.40:856][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.16-10.53.40:923][313]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.53.40:923][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.53.48:007][662]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Characters/Marine/Materials/M1_Marine_Instance.M1_Marine_Instance
+[2022.12.16-10.53.48:010][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.53.48:284][662]LogViewport: Scene viewport resized to 1167x872, mode Windowed.
+[2022.12.16-10.53.50:705][720]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2022.12.16-10.53.56:347][826]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2022.12.16-10.53.58:801][903]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2022.12.16-10.54.21:345][482]LogViewport: Scene viewport resized to 1114x713, mode Windowed.
+[2022.12.16-10.54.22:813][531]LogViewport: Scene viewport resized to 1111x736, mode Windowed.
+[2022.12.16-10.54.22:973][533]LogViewport: Scene viewport resized to 548x310, mode Windowed.
+[2022.12.16-10.54.23:791][581]LogViewport: Scene viewport resized to 1167x872, mode Windowed.
+[2022.12.16-10.54.23:995][585]LogViewport: Scene viewport resized to 1164x895, mode Windowed.
+[2022.12.16-10.54.24:241][587]LogViewport: Scene viewport resized to 548x366, mode Windowed.
+[2022.12.16-10.54.24:635][607]LogViewport: Scene viewport resized to 1167x872, mode Windowed.
+[2022.12.16-10.54.26:587][806]LogSlate: Window 'M1_Marine_Instance' being destroyed
+[2022.12.16-10.55.16:341][606]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.16-10.55.23:049][231]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.16-10.55.28:240][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.12.16-10.55.28:347][769]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Soldier_1
+[2022.12.16-10.55.28:347][769]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_118A57A5E4C273677B3C968B08CC06034.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Content/Blueprints/Pawns/BP_Soldier_1.uasset'
+[2022.12.16-10.55.28:396][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.12.16-10.55.28:431][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.16-10.55.28:434][769]LogSavePackage: Moving output files for package: /Game/Characters/Marine/Materials/M1_Marine_Instance
+[2022.12.16-10.55.28:434][769]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/M1_Marine_InstanceDF29C7A94E8FAFCC4DFE70B9BDD29D0D.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Content/Characters/Marine/Materials/M1_Marine_Instance.uasset'
+[2022.12.16-10.55.28:450][769]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.16-10.55.28:450][769]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.55.28:450][769]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Marine/Materials/M1_Marine_Instance.M1_Marine_Instance
+[2022.12.16-10.56.12:032][966]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.16-10.56.14:493][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.16-10.56.14:528][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.16-10.56.14:537][205]LogSavePackage: Moving output files for package: /Game/Characters/Marine/Materials/M1_Marine_Instance
+[2022.12.16-10.56.14:537][205]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/M1_Marine_Instance7847581440B5DE92A83BD3BB0DDF68AA.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Content/Characters/Marine/Materials/M1_Marine_Instance.uasset'
+[2022.12.16-10.56.14:553][205]AssetCheck: New page: Asset Save: M1_Marine_Instance
+[2022.12.16-10.56.14:553][205]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Characters/Marine/Materials/M1_Marine_Instance.M1_Marine_Instance
+[2022.12.16-10.56.16:343][395]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.56.16:343][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.56.18:130][485]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2022.12.16-10.56.18:131][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.56.18:160][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.56.18:534][485]LogViewport: Scene viewport resized to 952x677, mode Windowed.
+[2022.12.16-10.56.20:810][562]LogSlate: Window 'Marine' being destroyed
+[2022.12.16-10.56.20:816][562]LogSlate: Window 'Marine' being destroyed
+[2022.12.16-10.56.20:818][562]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.56.20:818][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.56.29:375][604]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2022.12.16-10.56.29:377][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.56.29:412][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.16-10.56.29:805][604]LogViewport: Scene viewport resized to 952x677, mode Windowed.
+[2022.12.16-10.56.32:674][630]LogSlate: Window 'Marine' being destroyed
+[2022.12.16-10.56.32:680][630]LogSlate: Window 'Marine' being destroyed
+[2022.12.16-10.56.32:682][630]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.56.32:682][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.56.45:254][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.56.45:255][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.56.50:639][314]LogViewport: Scene viewport resized to 890x542, mode Windowed.
+[2022.12.16-10.56.52:143][381]LogViewport: Scene viewport resized to 887x560, mode Windowed.
+[2022.12.16-10.56.52:257][383]LogViewport: Scene viewport resized to 436x219, mode Windowed.
+[2022.12.16-10.56.52:450][391]LogViewport: Scene viewport resized to 932x669, mode Windowed.
+[2022.12.16-10.56.52:904][423]LogSlate: Window 'BP_Soldier_1' being destroyed
+[2022.12.16-10.56.54:846][591]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.57.15:406][209]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.16-10.57.39:659][435]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Soldier_1
+[2022.12.16-10.57.39:659][435]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1FD698D0C423C787C0E29B59B542A491E.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Content/Blueprints/Pawns/BP_Soldier_1.uasset'
+[2022.12.16-10.57.39:676][435]AssetCheck: New page: Asset Save: BP_Soldier_1
+[2022.12.16-10.57.39:676][435]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2022.12.16-10.57.44:328][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.16-10.57.44:335][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.16-10.57.44:335][799]PIE: New page: PIE session: Main (16 gru 2022, 12:57:44)
+[2022.12.16-10.57.44:336][799]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2022.12.16-10.57.44:339][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003603s)
+[2022.12.16-10.57.44:339][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003735s)
+[2022.12.16-10.57.44:339][799]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.16-10.57.44:340][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-10.57.44:340][799]LogAIModule: Creating AISystem for world Main
+[2022.12.16-10.57.44:341][799]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2022.12.16-10.57.44:388][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.16-10.57.44:394][799]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.16-10.57.44:394][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.16-10.57.44:394][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.16-10.57.44:395][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.16-10.57.44:395][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.16-10.57.44:395][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.16-10.57.44:397][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.16-10.57.44:427][799]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (High Definition Audio Device)
+[2022.12.16-10.57.44:428][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.16-10.57.44:428][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.16-10.57.44:428][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.16-10.57.44:429][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.16-10.57.44:429][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.16-10.57.44:431][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.16-10.57.44:431][799]LogInit: FAudioDevice initialized.
+[2022.12.16-10.57.44:431][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.16-10.57.44:431][799]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.12.16-10.57.44:444][799]LogLoad: Game class is 'BP_Gamemode_1_C'
+[2022.12.16-10.57.44:444][799]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2022.12.16-11.57.44
+[2022.12.16-10.57.44:445][799]LogWorld: Bringing up level for play took: 0.000831
+[2022.12.16-10.57.44:447][799]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.12.16-10.57.44:450][799]PIE: Server logged in
+[2022.12.16-10.57.44:451][799]PIE: Play in editor total start time 0,115 seconds.
+[2022.12.16-10.57.51:591][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-10.57.51:591][347]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2022.12.16-10.57.51:592][347]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-10.57.51:592][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.57.51:606][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.16-10.57.51:612][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-10.57.51:651][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.16-10.57.51:651][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.16-10.57.51:652][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.16-10.57.51:657][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-10.57.51:659][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.16-10.57.51:724][348]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.12.16-10.57.51:771][349]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
