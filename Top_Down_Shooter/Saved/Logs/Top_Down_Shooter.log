@@ -844,3 +844,46 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.12-22.47.58:797][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.12-22.47.58:800][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2023.01.12-22.47.58:821][754]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.12-22.49.06:416][670]LogDerivedDataCache: C:/Users/marka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.380 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.12-22.50.44:367][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1
+[2023.01.12-22.50.44:368][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.12-22.57.49:422][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.12-22.57.49:425][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.050
+[2023.01.12-22.57.49:427][896]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_1] ([2] browsable assets)...
+[2023.01.12-22.57.49:671][896]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1_C]
+[2023.01.12-22.57.49:686][896]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1]
+[2023.01.12-22.57.49:686][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_1]
+[2023.01.12-22.57.49:699][896]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008449 seconds
+[2023.01.12-22.57.49:725][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto1
+[2023.01.12-22.57.49:725][896]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1_Auto1C28306A54964E3DE924B428838FB87AC.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto1.uasset'
+[2023.01.12-22.57.49:727][896]LogFileHelpers: Auto-saving content packages took 0.303
+[2023.01.12-22.59.31:467][230]LogViewport: Scene viewport resized to 932x847, mode Windowed.
+[2023.01.12-23.02.37:015][474]LogEditorTransaction: Undo Add Node
+[2023.01.12-23.05.43:072][313]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.01.12-23.05.43:079][313]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.01.12-23.07.50:139][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.01.12-23.07.50:141][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.096
+[2023.01.12-23.07.50:142][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_1] ([2] browsable assets)...
+[2023.01.12-23.07.50:281][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1]
+[2023.01.12-23.07.50:281][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_1]
+[2023.01.12-23.07.50:290][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto2
+[2023.01.12-23.07.50:291][227]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1_Auto295A2B1644D5AB5DDCB4637BDA54A2641.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto2.uasset'
+[2023.01.12-23.07.50:292][227]LogFileHelpers: Auto-saving content packages took 0.151
+[2023.01.12-23.10.58:380][536]LogEditorTransaction: Undo Move Node
+[2023.01.12-23.11.59:287][778]LogSlate: Took 0.006409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.12-23.17.50:807][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.12-23.17.50:811][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.078
+[2023.01.12-23.17.50:812][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_1] ([2] browsable assets)...
+[2023.01.12-23.17.50:925][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1]
+[2023.01.12-23.17.50:925][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_1]
+[2023.01.12-23.17.50:935][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto3
+[2023.01.12-23.17.50:936][217]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1_Auto3AE13BFCE4F0790A3A7672BB5A8B1DAA5.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto3.uasset'
+[2023.01.12-23.17.50:936][217]LogFileHelpers: Auto-saving content packages took 0.126
+[2023.01.12-23.27.51:460][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.01.12-23.27.51:465][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main' took 0.069
+[2023.01.12-23.27.51:465][750]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_1] ([2] browsable assets)...
+[2023.01.12-23.27.51:566][750]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_1.BP_Soldier_1]
+[2023.01.12-23.27.51:566][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_1]
+[2023.01.12-23.27.51:578][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto4
+[2023.01.12-23.27.51:579][750]LogSavePackage: Moving '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/BP_Soldier_1_Auto483982BC44C7EF030DC181A808697983C.tmp' to '../../../../../Pliki z pulpitu/UE5 - Projekty/1. Crash Course/Top_Down_Shooter_University/Top_Down_shooter_repository/Top_Down_Shooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_1_Auto4.uasset'
+[2023.01.12-23.27.51:580][750]LogFileHelpers: Auto-saving content packages took 0.115
